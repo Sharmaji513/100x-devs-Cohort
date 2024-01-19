@@ -27,8 +27,11 @@ This repository captures my progress, assignments, notes, and the exciting codin
 
 Let's connect and learn together! Feel free to reach out on:
 
-- [Twitter]([https://twitter.com/yourhandle](https://twitter.com/home))
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sachin-sharma-318b01211/))
+- [Twitter](https://twitter.com/Sachin_20000)
+- [LinkedIn](https://www.linkedin.com/in/sachin-sharma-318b01211/)
+
+
+
 
 
 I'm excited to share this journey with you! Happy coding! 🚀
